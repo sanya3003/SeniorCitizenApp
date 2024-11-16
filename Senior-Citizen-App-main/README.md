@@ -2,9 +2,7 @@
 
 This is the readme file for the project SeniorCitizen APP.
 
-## Authors
--Arnab Choudhury(workwitharnab24@gmail.com)
--Neha Kohli(workwithneha24@gmail.com)
+
 
 ## Project Description
 
